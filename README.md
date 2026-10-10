@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-[![TLTpulse](https://tlt-pulse.vercel.app/rozet/omersabri6636)](https://tlt-pulse.vercel.app/u/omersabri6636)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
