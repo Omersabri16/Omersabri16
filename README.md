@@ -2,7 +2,7 @@
 <h3 align="center">I am just a Software Developer who wants to make useful products for people's daily life.</h3>
 
 - 🔭 I’m currently working on **Python**
-  
+  [![TLTpulse](https://tlt-pulse.vercel.app/rozet/omersabri6636)](https://tlt-pulse.vercel.app/u/omersabri6636)
 - 📫 How to reach me **unverenomersabri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
